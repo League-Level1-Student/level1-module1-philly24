@@ -13,10 +13,10 @@ public static void main(String[] args) {
 	
 }
 void quack() {
-	
+
 }
 void waddle() {
-	
+ String yolo;	
 }
 
 }
