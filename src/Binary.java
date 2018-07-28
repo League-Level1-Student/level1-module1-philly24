@@ -26,7 +26,7 @@ public class Binary implements ActionListener{
 	}
 	public void actionPerformed(ActionEvent e) { 
 	   //code that reacts to the action... 
-	//JButton ButtonPressed = (JButton) arg0.getSource();
+	  text.setText(convert(text.getText()));
 	}
 	String convert(String input) {
         if(input.length() != 8){
